@@ -91,6 +91,7 @@ body {
 .navegacao .menu .item a:hover {
     background-color: #1ED760;
     color: white;
+    border-radius: 10px;
 }
 
 /* CABEÇALHO */
